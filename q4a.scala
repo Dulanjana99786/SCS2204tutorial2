@@ -21,7 +21,3 @@ object Salary{
     }
 
 }
-
-/* To read a number from console input, 
-   we use the method scala.io.StdIn.readInt(), 
-   scala.io.StdIn.readFloat(). */
